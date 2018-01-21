@@ -27,7 +27,7 @@
         "mozilla/wp-sw-manager": "dev-master",
         "marco-c/wp_serve_file": "dev-master",
         "lcobucci/jwt": "dev-3.1-relaxed",
-        "mdanter/ecc": "dev-master",
+        "mdanter/ecc": "0.3.x-dev",
         "spomky-labs/base64url": "^1.0@dev"
     },
     "minimum-stability": "dev"
